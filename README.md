@@ -71,5 +71,5 @@
 
 
 ## Contact
-For any questions or support, please contact [Ahmed Elsheekh](elsheekh418@gmail.com).
+For any questions or support, please contact [Ahmed Elsheekh](emailto:elsheekh418@gmail.com).
 
